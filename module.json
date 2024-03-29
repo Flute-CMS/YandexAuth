@@ -1,0 +1,8 @@
+{
+    "name": "YandexAuth",
+    "version": "1.0.0",
+    "description": "Добавляет драйвер авторизации через Yandex",
+    "authors": ["Flames"],
+    "providers": ["Flute\\Modules\\YandexAuth\\ServiceProviders\\YandexAuthServiceProvider"],
+    "dependencies": {}
+}
